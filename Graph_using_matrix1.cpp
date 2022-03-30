@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-const int N = 1e3;
+const int N = 1e3 + 10;
 int graph[N][N];
 int main() {
     int n,m;
